@@ -105,7 +105,7 @@ export default function Chat() {
             <p className="text-gray-500">
               This is an{" "}
               <a
-                href="https://github.com/steven-tey/chathn"
+                href="https://github.com/evildevill/chathn"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-medium underline underline-offset-4 transition-colors hover:text-black"
@@ -224,7 +224,7 @@ export default function Chat() {
           </a>
           .{" "}
           <a
-            href="https://github.com/steven-tey/chathn"
+            href="https://github.com/evildevill/chathn"
             target="_blank"
             rel="noopener noreferrer"
             className="transition-colors hover:text-black"
