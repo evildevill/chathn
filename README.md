@@ -1,4 +1,4 @@
-<a href="https://chathn.vercel.app">
+<a href="https://chathn-beta-navy.vercel.app/">
   <img alt="Chat with Hacker News using natural language." src="/app/opengraph-image.png">
   <h1 align="center">ChatHN</h1>
 </a>
@@ -9,10 +9,10 @@
 
 <p align="center">
   <a href="https://news.ycombinator.com/item?id=36480570"><img src="https://img.shields.io/badge/Hacker%20News-210-%23FF6600" alt="Hacker News"></a>
-  <a href="https://github.com/steven-tey/chathn/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/steven-tey/chathn?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
+  <a href="https://github.com/evildevill/chathn/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/evildevill/chathn?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
   </a>
-  <a href="https://github.com/steven-tey/chathn"><img src="https://img.shields.io/github/stars/steven-tey/chathn?style=social" alt="ChatHN's GitHub repo"></a>
+  <a href="https://github.com/evildevill/chathn"><img src="https://img.shields.io/github/stars/steven-tey/chathn?style=social" alt="ChatHN's GitHub repo"></a>
 </p>
 
 <p align="center">
@@ -57,8 +57,8 @@ ChatH is built on the following stack:
 
 Here's how you can contribute:
 
-- [Open an issue](https://github.com/steven-tey/chathn/issues) if you believe you've encountered a bug.
-- Make a [pull request](https://github.com/steven-tey/chathn/pull) to add new features/make quality-of-life improvements/fix bugs.
+- [Open an issue](https://github.com/evildevill/chathn/issues) if you believe you've encountered a bug.
+- Make a [pull request](https://github.com/evildevill/chathn/pull) to add new features/make quality-of-life improvements/fix bugs.
 
 ## Author
 
@@ -66,4 +66,4 @@ Here's how you can contribute:
 
 ## License
 
-Licensed under the [MIT license](https://github.com/steven-tey/chathn/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/evildevill/chathn/blob/main/LICENSE).
